@@ -7841,6 +7841,7 @@ style.textContent = `
 @media (max-width: 480px) {
   .real-estate-container {
     width: 100vw;
+    margin-left: 15px; /* Remove left margin */
   }
 
   .property-item {
