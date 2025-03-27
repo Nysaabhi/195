@@ -170,7 +170,7 @@ body {
     align-items: flex-start;
     gap: 12px;
     margin-bottom: 16px;
-    width: 100%;
+    width: 85%;
     max-width: 100%;
 }
 
@@ -7840,7 +7840,7 @@ style.textContent = `
 /* Media Queries for Mobile Devices */
 @media (max-width: 480px) {
   .real-estate-container {
-    width: 82vw;
+    width: 90vw;
   }
 
   .property-item {
