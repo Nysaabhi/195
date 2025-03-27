@@ -8337,7 +8337,7 @@ style.textContent = `
 /* Media Queries for Mobile Devices */
 @media (max-width: 480px) {
   .vehicle-item {
-    width: 80vw;
+    width: 85vw;
     padding: 12px;
     border-radius: 12px;
     margin-bottom: 12px;
