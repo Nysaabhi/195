@@ -170,7 +170,7 @@ body {
     align-items: flex-start;
     gap: 12px;
     margin-bottom: 16px;
-    width: 85%;
+    width: 80%;
     max-width: 100%;
 }
 
@@ -7840,7 +7840,7 @@ style.textContent = `
 /* Media Queries for Mobile Devices */
 @media (max-width: 480px) {
   .real-estate-container {
-    width: 90vw;
+    width: 100vw;
   }
 
   .property-item {
@@ -8034,7 +8034,7 @@ style.textContent = `
 /* Media Queries for Mobile Devices */
 @media (max-width: 480px) {
   .job-item {
-    width: 82vw;
+    width: 85vw;
     padding: 12px;
     border-radius: 12px;
     margin-bottom: 12px;
